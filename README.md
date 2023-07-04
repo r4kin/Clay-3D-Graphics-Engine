@@ -12,7 +12,7 @@ $ Passes the Utah Teapot test!!!
  
 
 
-## 3D-Graphics-Engine_Research-Report (PDF)
+## Research Paper on the Engineering of a 3D Graphics Engine
 
 
 *Fabricated and Published for the University of Waterloo*
@@ -20,7 +20,6 @@ $ Passes the Utah Teapot test!!!
 &nbsp;
 
 
-Research Paper on the Engineering of a 3D Graphics Engine: 
 
 
 Please see this [Implementation Reference PDF](3DGraphicsEngine_ResearchReport.pdf) for further details on the 3D Graphics Theory, Linear Algebra, and Code Architecture Implementation required to construct the Graphics Engine
