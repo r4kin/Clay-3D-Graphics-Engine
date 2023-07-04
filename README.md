@@ -19,10 +19,8 @@ $ Passes the Utah Teapot test!!!
 
 &nbsp;
 
-
-
-
-Please see this [Implementation Reference PDF](3DGraphicsEngine_ResearchReport.pdf) for further details on the 3D Graphics Theory, Linear Algebra, and Code Architecture Implementation required to construct the Graphics Engine
+&nbsp;
+Please see the [Implementation Reference (PDF)](3DGraphicsEngine_ResearchReport.pdf) for further details on the 3D Graphics Theory, Linear Algebra, and Code Architecture Implementation required to construct the Graphics Engine
 
  
 #### Copyright
