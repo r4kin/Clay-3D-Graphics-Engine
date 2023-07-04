@@ -1,7 +1,6 @@
 # Clay: 3D Graphics Engine
 
 
-
 **Experimental Beta**
 
 ``` 
@@ -14,16 +13,18 @@ $ Passes the Utah Teapot test!!!
 
 
 ## 3D-Graphics-Engine_Research-Report (PDF)
+
+
 *Fabricated and Published for the University of Waterloo*
 
 &nbsp;
 
 
+Research Paper on the Engineering of a 3D Graphics Engine: 
 
 
- Research Paper on the Engineering of a 3D Graphics Engine -  Implementation Reference:       
- 
- Details the 3D Graphics Theory, Linear Algebra, and Code Architecture required to construct the Graphics Engine
+Please see this [Implementation Reference PDF](3DGraphicsEngine_ResearchReport.pdf) for further details on the 3D Graphics Theory, Linear Algebra, and Code Architecture Implementation required to construct the Graphics Engine
+
  
 #### Copyright
 * Ownership held solely by Rakin Mohammed and the University of Waterloo
